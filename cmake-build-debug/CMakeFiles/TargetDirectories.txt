@@ -1,0 +1,3 @@
+C:/Users/Administrator/Documents/Programming/C++ documents/miniProjectMultiplyTable/cmake-build-debug/CMakeFiles/miniProjectMultiplyTable.dir
+C:/Users/Administrator/Documents/Programming/C++ documents/miniProjectMultiplyTable/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Documents/Programming/C++ documents/miniProjectMultiplyTable/cmake-build-debug/CMakeFiles/rebuild_cache.dir
